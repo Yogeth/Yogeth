@@ -59,14 +59,7 @@ public class Yogeth extends Developer {
 
 <div align="center">
 
-| Project | What It Does |
-|---------|-------------|
-| [🔐 springbootSecurity_CSRF_TOKEN](https://github.com/Yogeth/springbootSecurity_CSRF_TOKEN) | Spring Security with CSRF token protection |
-| [📋 springbootcomplaint](https://github.com/Yogeth/springbootcomplaint) | Complaint management REST API |
-| [🗄️ springbootJPA](https://github.com/Yogeth/springbootJPA) | JPA & Hibernate ORM deep dive |
-| [⚙️ SpringbootCRUD](https://github.com/Yogeth/SpringbootCRUD) | Full CRUD operations with Spring Boot |
-| [🌱 SpringbootBeans](https://github.com/Yogeth/SpringbootBeans) | Spring IoC, DI & Bean lifecycle |
-| [🖥️ Springboot-frontend](https://github.com/Yogeth/Springboot-frontend) | Spring Boot + HTML frontend integration |
+> 🔧 *New projects coming soon — currently rebuilding the stack!*
 
 </div>
 
