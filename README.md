@@ -1,16 +1,103 @@
-## Hi there 👋
+<!-- HEADER BANNER -->
+<div align="center">
 
-<!--
-**Yogeth/Yogeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗   ██╗ ██████╗  ██████╗ ███████╗████████╗██╗  ██╗
+╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝╚══██╔══╝██║  ██║
+ ╚████╔╝ ██║   ██║██║  ███╗█████╗     ██║   ███████║
+  ╚██╔╝  ██║   ██║██║   ██║██╔══╝     ██║   ██╔══██║
+   ██║   ╚██████╔╝╚██████╔╝███████╗   ██║   ██║  ██║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-Here are some ideas to get you started:
+### ⚡ Java Developer · Spring Boot Architect · Backend Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=Yogeth&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yogeth)
+[![GitHub followers](https://img.shields.io/github/followers/Yogeth?style=flat-square&color=orange&label=FOLLOWERS)](https://github.com/Yogeth?tab=followers)
+[![Repos](https://img.shields.io/badge/REPOS-21-blue?style=flat-square)](https://github.com/Yogeth?tab=repositories)
+
+</div>
+
+---
+
+## 🧠 Who Am I?
+
+```java
+public class Yogeth extends Developer {
+
+    String[] passions   = { "Spring Boot", "Clean Architecture", "Backend Systems" };
+    String   status     = "Always shipping something new 🚀";
+    boolean  openToWork = true;
+
+    @Override
+    public String toString() {
+        return "Java dev who turns ideas into robust backend systems.";
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+| Layer | Stack |
+|-------|-------|
+| **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) |
+| **Data** | ![JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What It Does |
+|---------|-------------|
+| [🔐 springbootSecurity_CSRF_TOKEN](https://github.com/Yogeth/springbootSecurity_CSRF_TOKEN) | Spring Security with CSRF token protection |
+| [📋 springbootcomplaint](https://github.com/Yogeth/springbootcomplaint) | Complaint management REST API |
+| [🗄️ springbootJPA](https://github.com/Yogeth/springbootJPA) | JPA & Hibernate ORM deep dive |
+| [⚙️ SpringbootCRUD](https://github.com/Yogeth/SpringbootCRUD) | Full CRUD operations with Spring Boot |
+| [🌱 SpringbootBeans](https://github.com/Yogeth/SpringbootBeans) | Spring IoC, DI & Bean lifecycle |
+| [🖥️ Springboot-frontend](https://github.com/Yogeth/Springboot-frontend) | Spring Boot + HTML frontend integration |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Yogeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeth&show_icons=true&theme=radical&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeth&layout=compact&theme=radical&hide_border=true&title_color=FF6B35&text_color=ffffff&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yogeth&theme=radical&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&background=0d1117)
+
+</div>
+
+---
+
+## 🌱 Currently Leveling Up
+
+- 🔒 Advanced Spring Security patterns
+- 🧪 Unit & Integration testing with JUnit + Mockito
+- ☁️ Cloud deployment (AWS / Docker)
+- 🏗️ Microservices architecture
+
+---
+
+<div align="center">
+
+**"Code is like humor. When you have to explain it, it's bad."** — Cory House
+
+⭐ *If you find my repos useful, drop a star — it means a lot!* ⭐
+
+</div>
