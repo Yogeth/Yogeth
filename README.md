@@ -10,7 +10,7 @@
    ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### ⚡ Java Developer · Spring Boot Architect · Backend Enthusiast
+### ⚡ Full Stack Java Developer · Spring Boot Architect · MariaDB Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yogeth&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yogeth)
 [![GitHub followers](https://img.shields.io/github/followers/Yogeth?style=flat-square&color=orange&label=FOLLOWERS)](https://github.com/Yogeth?tab=followers)
@@ -25,13 +25,14 @@
 ```java
 public class Yogeth extends Developer {
 
-    String[] passions   = { "Spring Boot", "Clean Architecture", "Backend Systems" };
+    String[] passions   = { "Spring Boot", "Full Stack Development", "Clean Architecture" };
+    String   database   = "MariaDB";
     String   status     = "Always shipping something new 🚀";
     boolean  openToWork = true;
 
     @Override
     public String toString() {
-        return "Java dev who turns ideas into robust backend systems.";
+        return "Full Stack Java dev who builds end-to-end systems from DB to UI.";
     }
 }
 ```
@@ -46,8 +47,8 @@ public class Yogeth extends Developer {
 |-------|-------|
 | **Language** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) |
-| **Data** | ![JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Data** | ![JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) |
 
 </div>
