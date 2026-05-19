@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Yogeth&color=brightgreen&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Yogeth)
 [![GitHub followers](https://img.shields.io/github/followers/Yogeth?style=flat-square&color=orange&label=FOLLOWERS)](https://github.com/Yogeth?tab=followers)
-[![Repos](https://img.shields.io/badge/REPOS-21-blue?style=flat-square)](https://github.com/Yogeth?tab=repositories)
+[![Repos](https://img.shields.io/badge/REPOS-7-blue?style=flat-square)](https://github.com/Yogeth?tab=repositories)
 
 </div>
 
