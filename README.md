@@ -24,7 +24,6 @@
 
 ```java
 public class Yogeth extends Developer {
-
     String[] passions   = { "Spring Boot", "Full Stack Development", "Clean Architecture" };
     String   database   = "MariaDB";
     String   status     = "Always shipping something new 🚀";
@@ -57,11 +56,44 @@ public class Yogeth extends Developer {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🌦️ Weather App
+> Real-time weather data for any city around the globe
 
-> 🔧 *New projects coming soon — currently rebuilding the stack!*
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</div>
+- 🔍 Search weather by city name
+- 🌡️ Current temperature, feels-like & hourly forecast
+- 📅 5-day forecast
+- 💨 Air Quality Index (AQI), visibility, pressure & dew point
+- ⚡ Powered by OpenWeatherMap API
+
+🔗 [Live Demo](https://weather-app-woad-mu-26.vercel.app) &nbsp;·&nbsp; [Source Code](https://github.com/Yogeth/weather-app)
+
+---
+
+### 🛒 EcomDemo
+> Java-based e-commerce backend demo
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+- RESTful API architecture with Spring Boot + JPA + MariaDB
+
+🔗 [Source Code](https://github.com/Yogeth/EcomDemo)
+
+---
+
+### 🌐 My Portfolio
+> Personal portfolio website
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+🔗 [Source Code](https://github.com/Yogeth/myPortfolio)
 
 ---
 
@@ -69,11 +101,9 @@ public class Yogeth extends Developer {
 
 <div align="center">
 
-![Yogeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeth&show_icons=true&theme=radical&hide_border=true&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeth&layout=compact&theme=radical&hide_border=true&title_color=FF6B35&text_color=ffffff&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yogeth&theme=radical&hide_border=true&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&background=0d1117)
+![Yogeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yogeth&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yogeth&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yogeth&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -88,10 +118,8 @@ public class Yogeth extends Developer {
 
 ---
 
-<div align="center">
+> *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-**"Code is like humor. When you have to explain it, it's bad."** — Cory House
+---
 
-⭐ *If you find my repos useful, drop a star — it means a lot!* ⭐
-
-</div>
+⭐ **If you find my repos useful, drop a star — it means a lot!** ⭐
