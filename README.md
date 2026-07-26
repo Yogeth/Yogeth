@@ -137,7 +137,7 @@ Live Demo:
 
 # Connect
 
-Portfolio:
-GitHub:
-LinkedIn:
-Email:
+Portfolio:https://my-portfolio-1kcr.vercel.app/ <br>
+GitHub:https://github.com/Yogeth   <br>
+LinkedIn:https://www.linkedin.com/in/yogeth-c-r-493105333/ <br>
+Email:yogethcr@gmail.com
