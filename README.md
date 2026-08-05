@@ -44,6 +44,9 @@ I'm a Computer Science graduate passionate about building backend systems, REST 
 
 # Technical Writing & Publications
 
+### [Automating Java Servlet Deployments with Gradle and Bash](https://dev.to/yogeth-dev/automating-java-servlet-deployments-with-gradle-and-bash-3kjd)
+A guide on configuring Gradle for `.war` generation and writing a Bash deployment script to automate Tomcat shutdowns, cleanup, and application restarts. Published on **DEV Community**.
+
 ### [How to Connect a React Frontend to a Spring Boot REST API](https://dev.to/yogeth-dev/how-to-connect-a-react-frontend-to-a-spring-boot-rest-api-3870)
 A step-by-step tutorial covering Cross-Origin Resource Sharing (CORS) handling in Spring Boot and API data-fetching using React standard hooks (`useState`, `useEffect`). Published on **DEV Community**.
 
