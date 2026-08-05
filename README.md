@@ -1,10 +1,10 @@
 # Yogeth C. R.
 
-**Java Backend Developer • Spring Boot • React • Linux**
+**Java Backend Developer • Spring Boot • React • Linux • Technical Writer**
 
-I'm a Computer Science graduate passionate about building backend systems, REST APIs, and developer tools using Java and Spring Boot. I enjoy designing scalable applications, automating development workflows, and learning modern software engineering practices.
+I'm a Computer Science graduate passionate about building backend systems, REST APIs, and developer tools using Java and Spring Boot. I enjoy designing scalable applications, automating development workflows, and writing clear technical guides for developers.
 
-- Open to Java Backend / Full Stack opportunities
+- Open to Java Backend / Full Stack / Technical Writing opportunities
 - Interested in Backend Engineering & System Design
 - Currently learning Spring Security, JUnit, Mockito, Docker, and Microservices
 
@@ -39,6 +39,13 @@ I'm a Computer Science graduate passionate about building backend systems, REST 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+# Technical Writing & Publications
+
+### [How to Connect a React Frontend to a Spring Boot REST API](https://dev.to/yogeth-dev/how-to-connect-a-react-frontend-to-a-spring-boot-rest-api-3870)
+A step-by-step tutorial covering Cross-Origin Resource Sharing (CORS) handling in Spring Boot and API data-fetching using React standard hooks (`useState`, `useEffect`). Published on **DEV Community**.
 
 ---
 
@@ -137,7 +144,8 @@ Live Demo:
 
 # Connect
 
-Portfolio:https://my-portfolio-1kcr.vercel.app/ <br>
-GitHub:https://github.com/Yogeth   <br>
-LinkedIn:https://www.linkedin.com/in/yogeth-c-r-493105333/ <br>
-Email:yogethcr@gmail.com
+Portfolio: https://my-portfolio-1kcr.vercel.app/ <br>
+GitHub: https://github.com/Yogeth <br>
+DEV Community: https://dev.to/yogeth-dev <br>
+LinkedIn: https://www.linkedin.com/in/yogeth-c-r-493105333/ <br>
+Email: yogethcr@gmail.com
